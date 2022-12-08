@@ -12,6 +12,7 @@ Le but étant de simuler un sprint sous un mois pour obtenir un premier livrable
 - entrainement à la revue de code.
 - entrainement aux méthodes Agile
 - pratique de Java et JavaFX.
+- ** Vous aurez besoin de Java 1.8 pour son fonctionnement.**
 
 ## Auteurs
 - Nicolas R.
