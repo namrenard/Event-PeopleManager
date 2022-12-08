@@ -28,7 +28,7 @@ Le but étant de simuler un sprint sous un mois pour obtenir un premier livrable
 
 ## Version
 
-- [] 1.0
+- [ ] 1.0
 
 ## Changelog
 
