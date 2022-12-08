@@ -16,8 +16,8 @@ Le but étant de simuler un sprint sous un mois pour obtenir un premier livrable
 ## Auteurs
 - Nicolas R.
 - Enzo C.
--Jean-Andrée T.
--Romain T.
+- Jean-Andrée T.
+- Romain T.
 
 ## Version
 
