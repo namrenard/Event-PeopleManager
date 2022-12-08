@@ -14,6 +14,12 @@ Le but étant de simuler un sprint sous un mois pour obtenir un premier livrable
 - pratique de Java et JavaFX.
 - ** Vous aurez besoin de Java 1.8 pour son fonctionnement.**
 
+## Screenshots
+- Interface vide
+![demo2 (2)](https://user-images.githubusercontent.com/87765071/206483863-308d0e10-bc54-4e6d-9b13-68a3e66b63ee.jpg)
+- Interface avec exemple
+![demo2 (1)](https://user-images.githubusercontent.com/87765071/206483846-ea37ef8e-f596-4b94-82b5-488219621961.jpg)
+
 ## Auteurs
 - Nicolas R.
 - Enzo C.
