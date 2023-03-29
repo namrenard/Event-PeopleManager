@@ -24,7 +24,7 @@ Le but étant de simuler un sprint sous un mois pour obtenir un premier livrable
 - Nicolas R.
 - Enzo C.
 - Jean-Andrée T.
-- Romain T.
+- Romain T. - [Github Romain](https://github.com/namrenard/Event-PeopleManager)
 
 ## Version
 
