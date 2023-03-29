@@ -1,7 +1,7 @@
 # Event-PeopleManager
 Ce logiciel complet est destinée à une Association. 
 Via une interface utilisateur, l'association pourra manager ses membres et ses évenements.
-L'interface permet en outre de sauver un fichier sérialisable ou seront stockée les données qui pourront être chargées.
+L'interface permet en outre de sauver un fichier sérialisable où seront stockées les données de l'association (évènements et membres).
 
 ## A propos !
 
@@ -10,9 +10,9 @@ Le but étant de simuler un sprint sous un mois pour obtenir un premier livrable
 - entrainement à Git.
 - entrainement à Junit5.
 - entrainement à la revue de code.
-- entrainement aux méthodes Agile
+- entrainement aux méthodes Agile.
 - pratique de Java et JavaFX.
-- ** Vous aurez besoin de Java 1.8 pour son fonctionnement.**
+- ** Vous aurez besoin de Java 1.8 pour le fonctionnement de l'IHM.**
 
 ## Screenshots
 - Interface vide
@@ -28,7 +28,7 @@ Le but étant de simuler un sprint sous un mois pour obtenir un premier livrable
 
 ## Version
 
-- [ ] 1.0
+- [x] 1.0
 
 ## Changelog
 
